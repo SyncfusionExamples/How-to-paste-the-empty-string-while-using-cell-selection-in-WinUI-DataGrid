@@ -62,6 +62,6 @@ public class CustomCopyPaste : DataGridClipboardController
 
  ```
 
-![Shows the empty string pasted in SfDataGrid](ShowsEmptyStringPasted.gif)
+![Shows the empty string pasted in SfDataGrid](EmptyStringPasted.gif)
 
 Take a moment to peruse the [WinUI DataGrid - Clipboard Operations](https://help.syncfusion.com/winui/datagrid/clipboard-operations) documentation, where you can find about the clipboard operations with code examples.
